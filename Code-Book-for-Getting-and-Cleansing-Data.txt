@@ -1,0 +1,215 @@
+DATA DICTIONARY - UCI HAR DATASET - Data Scientist Module 3 - Getting and Cleansing Data
+
+SUBJECT
+	Subject
+		Serialized number for each subject person in the test/train population.  
+			There are 30 subjects in this data.
+
+ACTIVITY
+	Activity label
+		Valid values:
+		1 WALKING
+		2 WALKING_UPSTAIRS
+		3 WALKING_DOWNSTAIRS
+		4 SITTING
+		5 STANDING
+		6 LAYING
+
+Average X axis body accel mean 		
+	The Average value of the  X axis body accel mean measurement
+
+Average Y axis body accel mean 		
+	The Average value of the  Y axis body accel mean measurement 
+
+Average Z axis body accel mean 		
+	The Average value of the  Z axis body accel mean  measurement
+
+Average X axis body accel std dev		
+	The Average value of the  X axis body accel std dev measurement
+
+Average Y axis body accel std dev		
+	The Average value of the  Y axis body accel std dev measurement
+
+Average Z axis body accel std dev		
+	The Average value of the  Z axis body accel std dev measurement
+
+Average X axis gravity accel mean 		
+	The Average value of the  X axis gravity accel mean  measurement
+
+Average Y axis gravity accel mean 		
+	The Average value of the  Y axis gravity accel mean  measurement
+
+Average Z axis gravity accel mean 		
+	The Average value of the  Z axis gravity accel mean  measurement
+
+Average X axis gravity accel std dev		
+	The Average value of the  X axis gravity accel std dev measurement
+
+Average Y axis gravity accel std dev		
+	The Average value of the  Y axis gravity accel std dev measurement
+
+Average Z axis gravity accel std dev		
+	The Average value of the  Z axis gravity accel std dev measurement
+
+Average X axis body accel jerk mean 		
+	The Average value of the  X axis body accel jerk mean measurement
+
+Average Y axis body accel jerk mean 		
+	The Average value of the  Y axis body accel jerk mean measurement
+
+Average Z axis body accel jerk mean 		
+	The Average value of the  Z axis body accel jerk mean measurement 
+
+Average X axis body accel jerk std dev		
+	The Average value of the  X axis body accel jerk std dev measurement
+
+Average Y axis body accel std jerk dev		
+	The Average value of the  Y axis body accel std jerk dev measurement
+
+Average Z axis body accel jerk std dev		
+	The Average value of the  Z axis body accel jerk std dev measurement
+
+Average X axis body gyro mean 		
+	The Average value of the  X axis body gyro mean measurement 
+
+Average Y axis body gyro mean 		
+	The Average value of the  Y axis body gyro mean measurement 
+
+Average Z axis body gyro mean 		
+	The Average value of the  Z axis body gyro mean measurement 
+
+Average X axis body gyro std dev		
+	The Average value of the  X axis body gyro std dev measurement
+
+Average Y axis body gyro std dev		
+	The Average value of the  Y axis body gyro std dev measurement
+
+Average Z axis body gyro std dev		
+	The Average value of the  Z axis body gyro std dev measurement
+
+Average X axis body gyro jerk mean 		
+	The Average value of the  X axis body gyro jerk mean measurement 
+
+Average Y axis body gyro jerk mean 		
+	The Average value of the  Y axis body gyro jerk mean measurement 
+
+Average Z axis body gyro jerk mean 		
+	The Average value of the  Z axis body gyro jerk mean measurement 
+
+Average X axis body gyro jerk std dev		
+	The Average value of the  X axis body gyro jerk std dev measurement
+
+Average Y axis body gyro std jerk dev		
+	The Average value of the  Y axis body gyro std jerk dev measurement
+
+Average Z axis body gyro jerk std dev		
+	The Average value of the  Z axis body gyro jerk std dev measurement
+
+Average Triax body accel mean		
+	The Average value of the  Triax body accel mean measurement
+
+Average Triax body accel std dev		
+	The Average value of the  Triax body accel std dev measurement
+
+Average Triax gravity accel mean		
+	The Average value of the  Triax gravity accel mean measurement
+
+Average Triax gravity accel std dev		
+	The Average value of the  Triax gravity accel std dev measurement
+
+Average Triax body accel jerk mean		
+	The Average value of the  Triax body accel jerk mean measurement
+
+Average Triax body accel jerk std dev		
+	The Average value of the  Triax body accel jerk std dev measurement
+
+Average Triax body gyro mean		
+	The Average value of the  Triax body gyro mean measurement
+
+Average Triax body gyro std dev		
+	The Average value of the  Triax body gyro std dev measurement
+
+Average Triax body gyro jerk mean		
+	The Average value of the  Triax body gyro jerk mean measurement
+
+Average Triax body gyro jerk std dev		
+	The Average value of the  Triax body gyro jerk std dev measurement
+
+Average X axis Freq body accel mean		
+	The Average value of the  X axis Freq body accel mean measurement
+
+Average Y axis Freq body accel mean		
+	The Average value of the  Y axis Freq body accel mean measurement
+
+Average Z axis Freq body accel mean		
+	The Average value of the  Z axis Freq body accel mean measurement
+
+Average X axis Freq body accel std dev		
+	The Average value of the  X axis Freq body accel std dev measurement
+
+Average Y axis Freq body accel std dev		
+	The Average value of the  Y axis Freq body accel std dev measurement
+
+Average Z axis Freq body accel std dev		
+	The Average value of the  Z axis Freq body accel std dev measurement
+
+Average X axis Freq body accel jerk mean		
+	The Average value of the  X axis Freq body accel jerk mean measurement
+
+Average Y axis Freq body accel jerk mean		
+	The Average value of the  Y axis Freq body accel jerk mean measurement
+
+Average Z axis Freq body accel jerk mean		
+	The Average value of the  Z axis Freq body accel jerk mean measurement
+
+Average X axis Freq body accel jerk std dev		
+	The Average value of the  X axis Freq body accel jerk std dev measurement
+
+Average Y axis Freq body accel jerk std dev		
+	The Average value of the  Y axis Freq body accel jerk std dev measurement
+
+Average Z axis Freq body accel jerk std dev		
+	The Average value of the  Z axis Freq body accel jerk std dev measurement
+
+Average X axis Freq body gyro mean 		
+	The Average value of the  X axis Freq body gyro mean measurement 
+
+Average Y axis Freq body gyro mean 		
+	The Average value of the  Y axis Freq body gyro mean measurement 
+
+Average Z axis Freq body gyro mean 		
+	The Average value of the  Z axis Freq body gyro mean measurement 
+
+Average X axis Freq body gyro std dev		
+	The Average value of the  X axis Freq body gyro std dev measurement
+
+Average Y axis Freq body gyro std dev		
+	The Average value of the  Y axis Freq body gyro std dev measurement
+
+Average Z axis Freq body gyro std dev		
+	The Average value of the  Z axis Freq body gyro std dev measurement
+
+Average Freq body accel mean		
+	The Average value of the  Freq body accel mean measurement
+
+Average Freq body accel std dev		
+	The Average value of the  Freq body accel std dev measurement
+
+Average Freq body accel jerk mean		
+	The Average value of the  Freq body accel jerk mean measurement
+
+Average Freq body accel jerk std dev		
+	The Average value of the  Freq body accel jerk std dev measurement
+
+Average Freq body gyro mean		
+	The Average value of the  Freq body gyro mean measurement
+
+Average Freq body gyro std dev		
+	The Average value of the  Freq body gyro std dev measurement
+
+Average Freq body gyro jerk mean		
+	The Average value of the  Freq body gyro jerk mean measurement
+
+Average Freq body gyro jerk std dev		
+	The Average value of the  Freq body gyro jerk std dev measurement
+
